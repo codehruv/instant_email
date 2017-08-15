@@ -30,7 +30,6 @@ def init():
 def send_email(name, email_id):
 	fromaddr = 'Dhruv Singh'
 	sub = raw_input("Subject:")
-	X = 'dummy_subject'
 	
 	print("Body ( type \"<done>\" on a new line when done ): \n") 
 	body = ""
