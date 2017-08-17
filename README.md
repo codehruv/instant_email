@@ -3,7 +3,7 @@ Send short emails straight from command line
 
 Usage
 
-`python instant_email.py <recepient-email-id>`
+`python insta.py <recepient-email-id>`
 
 Prompted for
 - Gmail ID
